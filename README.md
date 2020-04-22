@@ -5,7 +5,8 @@ If you need the data set that i've used, please do check the provided link :
 NOTE :
 *you need a folder named "train" which contains 2 folders "dogs" and "cats" each one of them has 1016 images 
 *you need a folder named "validation" which contains 2 folders "dogs" and "cats" each one of them has 416 images
-*you need a folder named "test" \n
+*you need a folder named "test" 
+
 I've followed Siraj Raval's video link below : 
 "https://www.youtube.com/watch?v=cAICT4Al5Ow"
 
